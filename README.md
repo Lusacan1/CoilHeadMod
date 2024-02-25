@@ -2,8 +2,6 @@
 
 This mod makes the coil head teleport when you look away with configurable chances
 
-Source code on github: https://github.com/Lusacan1/CoilHeadMod
-
 # Default Config File Summary
 (to show what the mod does)
 ```

@@ -116,13 +116,13 @@ namespace CoilHeadMod
 
             ConfigEntry<bool> configDebugCoil = Config.Bind(title,
                 "Debug Coil", 
-                true,
+                false,
                 "Spawn a coil inside the dungeon before landing");
             debugCoil = configDebugCoil.Value;
 
             ConfigEntry<bool> configBigLogs = Config.Bind(title,
                 "Ingame Logs",
-                true,
+                false,
                 "Displays a HUD tip for mod logs");
             bigLogs = configBigLogs.Value;
 
